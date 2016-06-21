@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  PAFinalOkhamafe
 //
-//  Created by Lamido Tijjo on 4/24/16.
+//  Created by Iziren Okhamafe on 4/24/16.
 //  Copyright © 2016 Mafe. All rights reserved.
 //
 
