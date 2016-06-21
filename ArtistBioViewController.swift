@@ -2,7 +2,7 @@
 //  ArtistBioViewController.swift
 //  PAFinalOkhamafe
 //
-//  Created by Lamido Tijjo on 5/16/16.
+//  Created by Iziren Okhamafe on 5/16/16.
 //  Copyright © 2016 Mafe. All rights reserved.
 //
 
